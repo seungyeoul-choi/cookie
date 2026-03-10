@@ -1,0 +1,12 @@
+# 리액트 프로젝트 생성
+npx create-react-app 프로젝트 이름
+
+# Tailwind CSS 설치
+npm install -D tailwindcss@3 postcss autoprefixer
+
+# Tailwind CSS 설정
+npx tailwindcss init -p
+
+# React-Router 모듈 추가
+npm install react-router-dom
+
